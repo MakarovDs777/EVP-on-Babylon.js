@@ -18,7 +18,7 @@
 
 Добавим редактор байтов.
 
-[EVP on Babylon.js (Version 4 - Endless EVP Pure Data Sonification + BYTE EDITOR) | Babylon.js Playground](https://playground.babylonjs.com/#5JHCP5)
+[EVP on Babylon.js (Version 4 - Endless EVP Pure Data Sonification + BYTE EDITOR) | Babylon.js Playground](https://playground.babylonjs.com/#5JHCP5#1)
 
 Теперь сделаем это для третей версии.
 
