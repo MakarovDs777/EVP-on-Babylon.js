@@ -15,3 +15,7 @@
 В четвертой версии мы сделаем бесконечный процедурно генерируемый белый шум от 0 до 255 формате диапазаоне генерации чисел.
 
 [EVP on Babylon.js (Version 3 - Endless EVP Pure Data Sonification) | Babylon.js Playground](https://playground.babylonjs.com/#R3845Y)
+
+Добавим редактор байтов.
+
+[EVP on Babylon.js (Version 4 - Endless EVP Pure Data Sonification + BYTE EDITOR) | Babylon.js Playground](https://playground.babylonjs.com/#5JHCP5)
