@@ -35,3 +35,7 @@
 Вообще решил совместит Laser Ball Target с генератором EVP.
 
 [EVP on Babylon.js (Version 8 - Endless EVP Pure Data Sonification on Laser Ball Targets) | Babylon.js Playground](https://playground.babylonjs.com/#C0YQF2)
+
+Добавим рикошеты от шарика к шарику.
+
+[EVP on Babylon.js (Version 9 - Endless EVP Pure Data Sonification on Laser Ball Targets + Ricoshet) | Babylon.js Playground](https://playground.babylonjs.com/#F0ZRNU)
