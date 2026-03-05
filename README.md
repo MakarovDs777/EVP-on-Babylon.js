@@ -31,3 +31,7 @@
 Ладно вернемся к 4 версии и заменим числа на байты.
 
 [EVP on Babylon.js (Version 7 - Endless EVP Pure Data Sonification + BYTE-STREAM EDITOR) | Babylon.js Playground](https://playground.babylonjs.com/#TE6XLG)
+
+Вообще решил совместит Laser Ball Target с генератором EVP.
+
+[EVP on Babylon.js (Version 8 - Endless EVP Pure Data Sonification on Laser Ball Targets) | Babylon.js Playground](https://playground.babylonjs.com/#C0YQF2)
