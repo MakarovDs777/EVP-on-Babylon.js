@@ -1,18 +1,18 @@
 # EVP-on-Babylon.js
 
-В первой версии я сделал генерацию ЭГФ из случайных отрезков аудио на ходу за одинаковые отрезки длительности звука.
+В нулевой версии я сделал генерацию ЭГФ из случайных отрезков аудио на ходу за одинаковые отрезки длительности звука.
 
 [EVP on Babylon.js (Version 0 - Endless EVP of random audio segments) | Babylon.js Playground](https://playground.babylonjs.com/#5DNXJV#1)
 
-В второй версии я сделал множество аудио которые из случайных отрезков аудио на ходу за одинаковые отрезки длительности звука.
+В первой версии я сделал множество аудио которые из случайных отрезков аудио на ходу за одинаковые отрезки длительности звука.
 
 [EVP on Babylon.js (Version 1 - Endless EVP from different audios) | Babylon.js Playground](https://playground.babylonjs.com/#U4NLOO)
 
-Во третей версии наконец-то я создал бесконечный ЭГФ из каши байтов полученных из множество аудио!
+Во второй версии наконец-то я создал бесконечный ЭГФ из каши байтов полученных из множество аудио!
 
 [EVP on Babylon.js (Version 2 - Endless EVP BYTE-SHUFFLER) | Babylon.js Playground](https://playground.babylonjs.com/#9HLEBB#2)
 
-В четвертой версии мы сделаем бесконечный процедурно генерируемый белый шум от 0 до 255 формате диапазаоне генерации чисел.
+В третей версии мы сделаем бесконечный процедурно генерируемый белый шум от 0 до 255 формате диапазаоне генерации чисел.
 
 [EVP on Babylon.js (Version 3 - Endless EVP Pure Data Sonification) | Babylon.js Playground](https://playground.babylonjs.com/#R3845Y)
 
@@ -24,6 +24,10 @@
 
 [EVP on Babylon.js (Version 5 - Endless EVP BYTE-SHUFFLER + BYTE EDITOR) | Babylon.js Playground](https://playground.babylonjs.com/#LGHP3P)
 
-Короче сделам всё остальнео.
+Короче сделам всё остальное.
 
 [EVP on Babylon.js (Version 6 - Endless EVP FINAL version) | Babylon.js Playground](https://playground.babylonjs.com/#8OX840)
+
+Ладно вернемся к 4 версии и заменим числа на байты.
+
+[EVP on Babylon.js (Version 7 - Endless EVP Pure Data Sonification + BYTE-STREAM EDITOR) | Babylon.js Playground](https://playground.babylonjs.com/#TE6XLG)
