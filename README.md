@@ -47,3 +47,7 @@
 Но получается что она делает это лентой за лентой а мне нужно что-бы сразу было.
 
 [EVP on Babylon.js (Version 11 - Endless EVP TV FULL COVERAGE Pure Data Sonification on Laser Ball Targets Rikoshet) | Babylon.js Playground](https://playground.babylonjs.com/#F7A6MZ)
+
+Бесконечная ЭГФ фанера.
+
+[EVP on Babylon.js (Version 12 - Endless EVP Plywood) | Babylon.js Playground](https://playground.babylonjs.com/#XFQ86C)
