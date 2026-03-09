@@ -55,3 +55,7 @@
 Доска ЭГФ как прозрачная или нет туда шарики падают и одни случайно проскалзивают другие случайно нет.
 
 [EVP on Babylon.js (Version 13 - Endless EVP Plywood Granular Station Visual) | Babylon.js Playground](https://playground.babylonjs.com/#DLLTXN)
+
+Лдано сделаем это как доску ударного звучания когда шарики падают на доску то проявляется обрезок звука столько сколько она намогничеена к доске.
+
+[EVP on Babylon.js (Version 14 - Endless EVP BOARD 2: Shock Sounding Board) | Babylon.js Playground](https://playground.babylonjs.com/#3B2GUL)
