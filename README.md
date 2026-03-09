@@ -51,3 +51,7 @@
 Бесконечная ЭГФ фанера.
 
 [EVP on Babylon.js (Version 12 - Endless EVP Plywood) | Babylon.js Playground](https://playground.babylonjs.com/#XFQ86C)
+
+Доска ЭГФ как прозрачная или нет туда шарики падают и одни случайно проскалзивают другие случайно нет.
+
+[EVP on Babylon.js (Version 13 - Endless EVP Plywood Granular Station Visual) | Babylon.js Playground](https://playground.babylonjs.com/#DLLTXN)
