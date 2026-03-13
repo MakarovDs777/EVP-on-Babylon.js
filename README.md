@@ -67,3 +67,7 @@
 Теперь нужно просто сделать сферу в которую перетаскиваются аудио стикеры, и чем ближе становится аудио к сфере тем громче становится звук а чем дальше тем тише.
 
 [EVP on Babylon.js (Version 16 - Scope sphere of audio activation by dragging the audio sticker) | Babylon.js Playground](https://playground.babylonjs.com/#ZXH2XB)
+
+Теперь нужно сделать для ЭГФ обрезков.
+
+[EVP on Babylon.js (Version 17 - Scope sphere of audio activation by dragging the Granular Multiply Audios Version) | Babylon.js Playground](https://playground.babylonjs.com/#BGOYF7)
