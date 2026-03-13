@@ -63,3 +63,7 @@
 Теперь нужно сделать ЭГФ фанеру для множество аудио обрезков выбранных файлов аудио.
 
 [EVP on Babylon.js (Version 15 - Endless EVP Plywood Granular Multiply Audios Version) | Babylon.js Playground](https://playground.babylonjs.com/#MQ54LO#1)
+
+Теперь нужно просто сделать сферу в которую перетаскиваются аудио стикеры, и чем ближе становится аудио к сфере тем громче становится звук а чем дальше тем тише.
+
+[EVP on Babylon.js (Version 16 - Scope sphere of audio activation by dragging the audio sticker) | Babylon.js Playground](https://playground.babylonjs.com/#ZXH2XB)
