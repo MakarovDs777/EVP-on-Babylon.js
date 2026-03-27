@@ -79,3 +79,5 @@
 Теперь сделаем трубу вместо сферы.
 
 [EVP on Babylon.js (Version 19 - Endless EVP Tube rainbow TV with pixel binding) | Babylon.js Playground](https://playground.babylonjs.com/#ZWV7W1)
+
+[EVP on Babylon.js (Version 20 - EVP editor) | Babylon.js Playground](https://playground.babylonjs.com/#Y2FQGB)
