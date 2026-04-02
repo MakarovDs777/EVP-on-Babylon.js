@@ -89,3 +89,5 @@
 [EVP on Babylon.js (Version 23 - EVP BYTE GUN) | Babylon.js Playground](https://playground.babylonjs.com/#E2JVVL)
 
 [EVP on Babylon.js (Version 25 - EVP BYTE SYMBOLS GUN) | Babylon.js Playground](https://playground.babylonjs.com/#CTOFKA#1)
+
+[EVP on Babylon.js (Version 26 - EVP TV RANDOM PIXEL GUN) | Babylon.js Playground](https://playground.babylonjs.com/#V5W0YP)
