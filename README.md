@@ -60,7 +60,7 @@
 
 [EVP on Babylon.js (Version 14 - Endless EVP BOARD 2: Shock Sounding Board) | Babylon.js Playground](https://playground.babylonjs.com/#3B2GUL)
 
-Теперь нужно сделать ЭГФ фанеру для множество аудио обрезков выбранных файлов аудио.https://github.com/MakarovDs777/EVP-online-on-Babylon.js/blob/main/README.md
+Теперь нужно сделать ЭГФ фанеру для множество аудио обрезков выбранных файлов аудио.
 
 [EVP on Babylon.js (Version 15 - Endless EVP Plywood Granular Multiply Audios Version) | Babylon.js Playground](https://playground.babylonjs.com/#MQ54LO#1)
 
@@ -105,3 +105,11 @@
 [EVP on Babylon.js (Version 32 - EVP BYTE SYMBOLS CUBES IN CUBE) | Babylon.js Playground](https://playground.babylonjs.com/#SI3QZP#1)
 
 [EVP on Babylon.js (Version 33 - EVP BYTE NUMBERS CUBES IN CUBE MULTIPLY SPHERES) | Babylon.js Playground](https://playground.babylonjs.com/#K8HX1I)
+
+Я любил в детстве играть в сегу у моего двоюрдного брата Даннила была Денди а у меня была Сега, и моей самой любимой игрой была Крэш Бандикот а именно тот уровень с боссом на этой строительной площадке где поле порезанное на плитки, и босс который стрелял динамитами эти динамиты попадали на плитки - взрывали их, и туда уже нельзя было наступать снова, и сложность состояла в том что нужно за определённый период времени рассчитать в уме куда попдаёт динамит, и растянуть это процесс что-бы как можно дольше что-бы как можно больше плиток осталось на которые можно было перепрыгнуть, и как можно больше урона нанести боссу что-бы его победить. И я решил перенести эту концепцию на коробку ЭГФ только вместо множество шаров которые туда сюда летают в случайных направлениях сделать шарик которые катается по плоскости случайно потом залипает на 1 секунду активирует звук, и тут же делат снова случайно движение в случайном направлении к последующей плитке оставля динамит которые взрывает ту плитку на которой он был.
+
+[EVP on Babylon.js (Version 34 - EVP BYTE PLANE The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#1MTR9O)
+
+Теперь та же хрень только с буквами, и звуками байтов.
+
+[EVP on Babylon.js (Version 35 - EVP BYTE SYMBOLS PLANE RUSSIAN: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#NGWFR9)
