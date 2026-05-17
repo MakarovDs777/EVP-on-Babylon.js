@@ -113,3 +113,7 @@
 Теперь та же хрень только с буквами, и звуками байтов.
 
 [EVP on Babylon.js (Version 35 - EVP BYTE SYMBOLS PLANE RUSSIAN: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#NGWFR9)
+
+[EVP on Babylon.js (Version 36 - EVP BYTE NUMBERS PLANE: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#328RDG)
+
+[EVP on Babylon.js (Version 37 - EVP NUMBERS PLANE: The surface of the dynamite level of Crash Bandicoot) | Babylon.js Playground](https://playground.babylonjs.com/#RE12UM)
